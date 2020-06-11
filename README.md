@@ -6,6 +6,7 @@ Find out interesting insights on few movies released between 1916 and 2016, usin
 Insights based on Analysis:
 **Top Rated movies based on Budget & collections 
 **Top Rated Actors based on Critic & User Reviews
+
 ## Objective 2 ## Pandas ##
 ## Topic: Sales ##
 Insights into a Sales Data of a Shopping Mall. 
