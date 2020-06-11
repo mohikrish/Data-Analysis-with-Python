@@ -14,7 +14,7 @@ Analysis Summary ->
 **Top & Least Sales by Category, Product Type.
 **Top & Least Sales by Profits.
 
-## Objective 2 ## Topic: Clinics ##
+## Objective 3 ## Topic: Clinics ##
 Insights on Dr. Semmelweis's discovery of impotance of handwashing
 #Used Pandas & Matplotlib#
 Analysis Summary ->
