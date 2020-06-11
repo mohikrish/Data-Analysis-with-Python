@@ -1,6 +1,6 @@
 # Data-Analysis-with-Python
 
-## Objective 1 ## Topic: Movies ##
+## Objective 1 ## Topic: Movies  ##
 #Used Pandas#
 Find out interesting insights on few movies released between 1916 and 2016, using Python.
 Analysis Summary->
@@ -14,7 +14,7 @@ Analysis Summary ->
 **Top & Least Sales by Category, Product Type.
 **Top & Least Sales by Profits.
 
-## Objective 2 ## Topic: Clinical Data ##
+## Objective 2 ## Topic: Clinics ##
 Insights on Dr. Semmelweis's discovery of impotance of handwashing
 #Used Pandas & Matplotlib#
 Analysis Summary ->
