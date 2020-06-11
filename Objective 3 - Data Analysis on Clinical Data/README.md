@@ -1,4 +1,4 @@
-Dr. Semmelweis and the discovery of handwashing
+Dr. Semmelweis's discovery of importance of handwashing
 
 • Analyzed handwashing data from two hospitals to determine whether handwashing among doctors reduces rate of death in women during child birth 
 • Utilized Python to analyze data and visualized data using i.e. Matplotlib library
