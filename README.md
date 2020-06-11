@@ -23,3 +23,7 @@ Analysis Summary ->
 "Project OverView Visuals"
 https://github.com/mohikrish/Python_Projects/blob/master/Project%201%20-%20Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing/Project%20OverView.pdf
 
+## Objective 4 ## Topic: Data Reshaping ##
+#Used Pandas#
+Data Manipulation Summary ->
+• Converted unstructured data in different sheets in excel to structured data on a single sheet.
