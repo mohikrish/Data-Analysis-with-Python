@@ -16,7 +16,7 @@ Analysis Summary ->
 
 ## Objective 3 ## Topic: Clinics ##
 #Used Pandas & Matplotlib#
-Insights on Dr. Semmelweis's discovery of impotance of handwashing
+Insights on Dr. Semmelweis's discovery of importance of handwashing
 Analysis Summary ->
 • Analyzed handwashing data from two hospitals to determine whether handwashing among doctors reduces rate of death in women during child birth 
 • Performed bootstrap analysis of data to highlight that when doctors washed hands while delivering babies there was a 10% reduction in deaths of mothers. 
